@@ -21,6 +21,7 @@ Two potentiometers control the X and Y position of a cursor on a canvas, while a
 ## Project Interaction
 
 Video interaction: https://drive.google.com/file/d/1h1HtV-_-JUEKgieFiu1-NDM2Pb2Thfwr/view?usp=sharing
+
 p5.js sketch: https://editor.p5js.org/sa8831/sketches/PlkeI1z0w
 
 ## Core Features  
