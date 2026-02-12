@@ -12,6 +12,17 @@ Two potentiometers control the X and Y position of a cursor on a canvas, while a
 3. **p5.webserial.js** – Enables real-time serial communication between Arduino and browser.  
 4. **HTML / JavaScript** – Manages interface structure and interaction logic.  
 
+
+## Schematic
+<img width="458" height="493" alt="image" src="https://github.com/user-attachments/assets/1405323f-5384-41e8-b098-fb28bc3a9054" />
+
+
+
+## Project Interaction
+
+Video interaction: https://drive.google.com/file/d/1h1HtV-_-JUEKgieFiu1-NDM2Pb2Thfwr/view?usp=sharing
+p5.js sketch: https://editor.p5js.org/sa8831/sketches/PlkeI1z0w
+
 ## Core Features  
 
 1. **Real-Time Hardware Control**  
@@ -34,13 +45,3 @@ Two potentiometers control the X and Y position of a cursor on a canvas, while a
 5. **Optimized Input Handling**  
    - Debounce logic implemented for stable button detection.  
    - Reduced serial lag by optimizing read frequency.
-
-## Schematic
-<img width="458" height="493" alt="image" src="https://github.com/user-attachments/assets/1405323f-5384-41e8-b098-fb28bc3a9054" />
-
-
-
-## Project Interaction
-
-Video interaction: https://drive.google.com/file/d/1h1HtV-_-JUEKgieFiu1-NDM2Pb2Thfwr/view?usp=sharing
-
